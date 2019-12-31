@@ -8,3 +8,9 @@
 * 版本：2.0.0<br>
 * 下载地址：https://github.com/hitchao/Javedio-2.0/raw/master/%E3%80%902020.1.1%E3%80%91Javedio%202.0.7z <br>
 * 密码：chao
+### 更新
+* 界面优化
+* 增加本页下载功能
+* 侧边栏优化
+* 类别多重筛选功能
+* 修复若干BUG

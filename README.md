@@ -6,5 +6,5 @@
 ## 版本信息
 * 日期：2020/1/1<br>
 * 版本：2.0.0<br>
-* 下载地址：https://github.com/hitchao/Javedio/blob/master/Javedio.rar <br>
+* 下载地址：https://github.com/hitchao/Javedio-2.0/blob/master/%E3%80%902020.1.1%E3%80%91Javedio%202.0.7z <br>
 * 密码：chao

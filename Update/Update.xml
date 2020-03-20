@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312"?>
+<appsettings>
+  <Update>
+    <Version>3.0</Version>
+    <Information>Javedio 3.0</Information>
+    <DownLoad>http://www.hitchao.cn/Javedio.zip</DownLoad>
+  </Update>
+</appsettings>

@@ -6,7 +6,8 @@
 ## 版本信息
 * 日期：2020/1/1
 * 版本：2.0.0
-* 下载地址：1X1-jdQMMABNWtfgHaXAKPQ dftd
+* 1X1-jdQMMABNWtfgHaXAKPQ dftd
+* 直链：
 * 密码：chao
 ### 更新
 * 界面优化
